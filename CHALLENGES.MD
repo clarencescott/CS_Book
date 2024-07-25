@@ -442,3 +442,7 @@ Expected Output: 30 (if bug is fixed)
 
 Test Add(-10, -10)
 Expected Output: -20 (if bug is fixed)
+
+# Chapter 11: Visual Studio Code Projects
+### Challenge:
+- Create 3 Visual Studio / Visual Studio Code Projects

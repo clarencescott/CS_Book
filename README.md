@@ -85,28 +85,28 @@ Stay updated with the latest C# features and best practices.
 15. After each chapter has been completed, mark them complete : - ✅ Task completed
 
 # Topics
-## Chapter 1: Intro to C#:
+## Chapter 1: Intro to C#: [Challenges](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#c-programming-challenges)
 - Creating a program that prints out "Welcome to my C# Programming Portfolio!" - ✅ Task completed
 
-## Chapter 2: Data Types, Variables, and Operators
+## Chapter 2: Data Types, Variables, and Operators [Challenge 2](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-2-data-types-variables-and-operators)
 
-## Chapter 3: Control Flow Statements 
+## Chapter 3: Control Flow Statements  [Challenge 3](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-3-control-flow-statements)
 
-## Chapter 4: Methods and Functions 
+## Chapter 4: Methods and Functions [Challenge 4](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-4-methods-and-functions)
 
-## Chapter 5: Object-Oriented Programming (OOP) 
+## Chapter 5: Object-Oriented Programming (OOP) [Challenge 5](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-5-object-oriented-programming-oop-basics)
 
-## Chapter 6: Arrays and Collections 
+## Chapter 6: Arrays and Collections [Challenge 6](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-6-arrays-and-collections)
 
-## Chapter 7: Exception Handling 
+## Chapter 7: Exception Handling [Challenge 7](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-7-exception-handling)
 
-## Chapter 8: File I/O and Streams 
+## Chapter 8: File I/O and Streams [Challenge 8](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-8-file-io-and-streams)
 
-## Chapter 9: Basic Understanding of LINQ
+## Chapter 9: Basic Understanding of LINQ [Challenge 9](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-9-basic-understanding-of-linq)
 
-## Chapter 10: Basic Concepts of Debugging and Testing
+## Chapter 10: Basic Concepts of Debugging and Testing [Challenge 10](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-10-basic-concepts-of-debugging-and-testing)
 
-## Chapter 11: Visual Studio Code Projects
+## Chapter 11: Visual Studio Code Projects [Challenge 11](https://github.com/clarencescott/CS_Book/blob/master/CHALLENGES.MD#chapter-11-visual-studio-code-projects)
 
 
 # C# Book Challenge Checklist
