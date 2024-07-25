@@ -10,7 +10,7 @@
 - Each chapter will get a new folder to hold the contents needed in later projects:
 > .Net: New Project > Project Template > Save Location > Create Project
 
-- Flow Charts built with: [https://app.diagrams.net/]-{Draw.io}
+- Flow Charts built with: [https://app.diagrams.net/] {Draw.io}
 
 # Rules
 
