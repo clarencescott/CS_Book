@@ -24,7 +24,8 @@ class Program
         Console.WriteLine($"Division: {num1 / num2}");
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Input: 10, 5
 Expected Output:
@@ -95,7 +96,8 @@ class Program
         }
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Input: 10
 Expected Output: The number is positive.
@@ -113,7 +115,7 @@ After a valid number is entered, output as per the valid input.
 Input: 999
 Expected Output: The number is positive.
 
-#Chapter 4: Methods and Functions
+# Chapter 4: Methods and Functions
 ### Challenge:
 - Write a program that defines a method to calculate the factorial of a given number. Use this method to compute the factorial of numbers provided by the user.
 
@@ -141,7 +143,8 @@ class Program
         return n * Factorial(n - 1);
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Input: 5
 Expected Output: The factorial of 5 is 120.
@@ -188,7 +191,8 @@ class Program
         person.DisplayInfo();
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Name: Alice, Age: 30
 Expected Output:
@@ -238,7 +242,8 @@ class Program
         }
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Array: {5, 3, 8, 1, 2}
 Expected Output: Sorted array: 1 2 3 5 8
@@ -289,7 +294,8 @@ class Program
         }
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Input: 10
 Expected Output: Result: 10
@@ -337,7 +343,8 @@ class Program
         }
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 File Exists: Contains "Hello World!"
 Expected Output: File contents: Hello World!
@@ -379,7 +386,8 @@ class Program
         }
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 List: {5, 12, 7, 15, 1, 20}
 Expected Output: Filtered and sorted numbers: 12 15 20
@@ -416,7 +424,8 @@ class Program
         return a - b; // Bug: should be addition, not subtraction
     }
 }
-Test Cases:
+
+#### Test Cases:
 
 Test Add(3, 4)
 Expected Output: 7 (if bug is fixed)
