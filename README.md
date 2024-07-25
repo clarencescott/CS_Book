@@ -84,7 +84,7 @@ Stay updated with the latest C# features and best practices.
 
 15. After each chapter has been completed, mark them complete : - ✅ Task completed
 
-# Topcis
+# Topics
 ## Chapter 1: Intro to C#:
 - Creating a program that prints out "Welcome to my C# Programming Portfolio!" - ✅ Task completed
 
