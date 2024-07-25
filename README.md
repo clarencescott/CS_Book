@@ -10,6 +10,8 @@
 - Each chapter will get a new folder to hold the contents needed in later projects:
 > .Net: New Project > Project Template > Save Location > Create Project
 
+- Flow Charts built with: [https://app.diagrams.net/]-{Draw.io}
+
 # Rules
 
 1. Read and fully understand the problem you are trying to solve.
@@ -84,7 +86,7 @@ Stay updated with the latest C# features and best practices.
 
 # Topcis
 ## Chapter 1: Intro to C#:
-- Creating a program that prints out "Welcome to my C# Programming Portfolio!"
+- Creating a program that prints out "Welcome to my C# Programming Portfolio!" - ✅ Task completed
 
 ## Chapter 2: Data Types, Variables, and Operators
 
