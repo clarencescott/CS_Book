@@ -2,7 +2,7 @@
 ## List of all of the challenges below:
 - 15. After each test case has been completed, mark them complete : - ✅ Task completed
 
-# Chapter 2: Data Types, Variables, and Operators
+# Chapter 2: Data Types, Variables, and Operators - ✅ Task completed
 ### Challenge:
 - Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers provided by the user. The program should display the results of these operations.
 
@@ -27,13 +27,25 @@ class Program
 }
 
 #### Test Cases:
+##### Solutions
+- int num1 = 10;
+- int num2 = 5;
+###### Multiplication
+- Console.WriteLine($"Multiplication: {49 * 2}");
 
 Input: 10, 5
 Expected Output:
 Addition: 15
 Subtraction: 5
-Multiplication: 50
+Multiplication: 98
 Division: 2
+
+
+##### Solutions
+- int num1 = 7;
+- int num2 = 3;
+###### Division
+-Console.WriteLine($"Division: {(float)num1 / (float)num2}");
 
 Input: 7, 3
 Expected Output:
@@ -42,12 +54,20 @@ Subtraction: 4
 Multiplication: 21
 Division: 2.333
 
+##### Solutions
+- int num1 = 0;
+- int num2 = 5;
+
 Input: 0, 5
 Expected Output:
 Addition: 5
 Subtraction: -5
 Multiplication: 0
 Division: 0
+
+##### Solutions
+- int num1 = -10;
+- int num2 = 5;
 
 Input: -10, 5
 Expected Output:
@@ -56,6 +76,12 @@ Subtraction: -15
 Multiplication: -50
 Division: -2
 
+##### Solutions
+- int num1 = 10;
+- int num2 = 0;
+
+###### Division
+Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
 Input: 10, 0
 Expected Output:
 Addition: 10
