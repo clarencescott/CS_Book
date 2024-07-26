@@ -5,6 +5,8 @@
 # Chapter 2: Data Types, Variables, and Operators
 ### Challenge:
 - Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers provided by the user. The program should display the results of these operations.
+*** Updated the code to remove the console read line inputs and take them as declared/initilized variables. ***
+*** Changed the code to include one test case that does not use the variables declared and initilized. ***
 
 
 using System;
@@ -13,15 +15,10 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Enter the first number: ");
-        double num1 = Convert.ToDouble(Console.ReadLine());
-
-        Console.Write("Enter the second number: ");
-        double num2 = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine($"Addition: {num1 + num2}");
         Console.WriteLine($"Subtraction: {num1 - num2}");
-        Console.WriteLine($"Multiplication: {num1 * num2}");
+        Console.WriteLine($"Multiplication: {  *  }");
         Console.WriteLine($"Division: {num1 / num2}");
     }
 }
@@ -32,7 +29,7 @@ Input: 10, 5
 Expected Output:
 Addition: 15
 Subtraction: 5
-Multiplication: 50
+Multiplication: 98
 Division: 2
 
 Input: 7, 3
